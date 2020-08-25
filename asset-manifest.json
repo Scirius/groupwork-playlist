@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/groupwork-playlist/static/css/main.5f361e03.chunk.css",
+    "main.js": "/groupwork-playlist/static/js/main.273d2a53.chunk.js",
+    "main.js.map": "/groupwork-playlist/static/js/main.273d2a53.chunk.js.map",
+    "runtime-main.js": "/groupwork-playlist/static/js/runtime-main.0fec4758.js",
+    "runtime-main.js.map": "/groupwork-playlist/static/js/runtime-main.0fec4758.js.map",
+    "static/js/2.f83a5f65.chunk.js": "/groupwork-playlist/static/js/2.f83a5f65.chunk.js",
+    "static/js/2.f83a5f65.chunk.js.map": "/groupwork-playlist/static/js/2.f83a5f65.chunk.js.map",
+    "index.html": "/groupwork-playlist/index.html",
+    "precache-manifest.41d6f76ef6655dbda6260df93e0ad0fa.js": "/groupwork-playlist/precache-manifest.41d6f76ef6655dbda6260df93e0ad0fa.js",
+    "service-worker.js": "/groupwork-playlist/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/groupwork-playlist/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f83a5f65.chunk.js.LICENSE.txt": "/groupwork-playlist/static/js/2.f83a5f65.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/groupwork-playlist/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fec4758.js",
+    "static/js/2.f83a5f65.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.273d2a53.chunk.js"
+  ]
+}
